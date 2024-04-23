@@ -1,0 +1,49 @@
+
+
+<svg preserveAspectRatio="none" width="384" height="366" viewBox="0 0 384 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Define gradient colors -->
+        <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#FF4D4D"/>
+            <stop offset="100%" stop-color="#FFC3A0"/>
+        </linearGradient>
+        <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#72EDF2"/>
+            <stop offset="100%" stop-color="#5151E5"/>
+        </linearGradient>
+        <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#C9FFBF"/>
+            <stop offset="100%" stop-color="#FFAFBD"/>
+        </linearGradient>
+        <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#FFAC81"/>
+            <stop offset="100%" stop-color="#FFD3B6"/>
+        </linearGradient>
+        <linearGradient id="gradient5" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#B2F7EF"/>
+            <stop offset="100%" stop-color="#6094FF"/>
+        </linearGradient>
+        <linearGradient id="gradient6" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#F9D975"/>
+            <stop offset="100%" stop-color="#ffffff"/>
+        </linearGradient>
+        <linearGradient id="gradient7" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#FF61A6"/>
+            <stop offset="100%" stop-color="#A78BFA"/>
+        </linearGradient>
+        <linearGradient id="gradient8" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#6EE7B7"/>
+            <stop offset="100%" stop-color="#B2F7EF"/>
+        </linearGradient>
+    </defs>
+    <!-- Rounded rectangle with multiple gradient strokes -->
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="white" stroke-opacity="0.15" stroke-width="2"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient1)" stroke-opacity="0.85" stroke-width="3"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient2)" stroke-opacity="0.85" stroke-width="4"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient3)" stroke-opacity="0.85" stroke-width="3"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient4)" stroke-opacity="0.85" stroke-width="2"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient5)" stroke-opacity="0.85" stroke-width="5"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient6)" stroke-opacity="0.85" stroke-width="4"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient7)" stroke-opacity="0.85" stroke-width="3"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient8)" stroke-opacity="0.85" stroke-width="6"/>
+</svg>

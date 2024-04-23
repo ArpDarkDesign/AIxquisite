@@ -1,0 +1,27 @@
+<svg preserveAspectRatio="none" width="384" height="366" viewBox="0 0 384 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Define gradient colors -->
+        <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#80004D"/>
+            <stop offset="80%" stop-color="#4D0029"/>
+        </linearGradient>
+        <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#3D007A"/>
+            <stop offset="80%" stop-color="#290057"/>
+        </linearGradient>
+        <linearGradient id="gradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#800000"/>
+            <stop offset="80%" stop-color="#4D0000"/>
+        </linearGradient>
+        <linearGradient id="gradient4" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#008080"/>
+            <stop offset="80%" stop-color="#004D4D"/>
+        </linearGradient>
+    </defs>
+    <!-- Rounded rectangle with multiple gradient strokes -->
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="#80004D" stroke-opacity="0.4" stroke-width="10"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient1)" stroke-opacity="0.8" stroke-width="3"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient2)" stroke-opacity="0.8" stroke-width="4"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient3)" stroke-opacity="0.8" stroke-width="3"/>
+    <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#gradient4)" stroke-opacity="0.8" stroke-width="6"/>
+</svg>
